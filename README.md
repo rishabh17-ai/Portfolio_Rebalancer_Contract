@@ -66,4 +66,5 @@ All asset allocations must sum to 100% (10,000 basis points)
 Rebalancing only occurs when deviation exceeds the set threshold (default 5%)
 User funds are automatically allocated across target assets upon deposit
 This project is under active development. Please refer to the latest documentation and contract addresses before interacting with the protocol.
+<img width="484" height="720" alt="Screenshot 2025-08-26 114801" src="https://github.com/user-attachments/assets/a5b753fe-06b1-4fda-ab25-ad8d303c6fe7" />
 
