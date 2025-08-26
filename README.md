@@ -84,5 +84,6 @@ Our vision is to democratize sophisticated portfolio management by providing ret
 ---
 
 *This project is under active development. Please refer to the latest documentation and contract addresses before interacting with the protocol.*
-<img width="484" height="720" alt="Screenshot 2025-08-26 114801" src="https://github.com/user-attachments/assets/a5b753fe-06b1-4fda-ab25-ad8d303c6fe7" />
+<img width="1867" height="880" alt="Screenshot 2025-08-26 122155" src="https://github.com/user-attachments/assets/b96c3064-b138-4d34-838f-76766202d804" />
+
 
