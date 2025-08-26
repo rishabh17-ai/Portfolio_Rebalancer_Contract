@@ -58,16 +58,16 @@ Our vision is to democratize sophisticated portfolio management by providing ret
 *Contract addresses will be updated upon deployment to mainnet and testnet*
 
 ### Testnet Deployment
-- **Contract Address**: `[To be added after deployment]`
+- **Contract Address**: 
 - **Network**: Stacks Testnet
-- **Deployer**: `[To be added]`
-- **Block Height**: `[To be added]`
+- **Deployer**: 
+- **Block Height**: 
 
 ### Mainnet Deployment  
-- **Contract Address**: `[To be added after mainnet deployment]`
+- **Contract Address**: 
 - **Network**: Stacks Mainnet
-- **Deployer**: `[To be added]`
-- **Block Height**: `[To be added]`
+- **Deployer**: 
+- **Block Height**: 
 
 ### Key Functions
 - `deposit-and-allocate`: Allows users to deposit STX and receive portfolio tokens
